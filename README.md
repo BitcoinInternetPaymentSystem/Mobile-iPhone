@@ -18,4 +18,4 @@ Features:
 * Remotely disable your lost phone.
 * BIPS Takes the Plunge: Now 100% Open Source and reviewed by the bitcoin community
 
-https://github.com/BitcoinInternetPaymentSystem/Mobile-Android
+https://github.com/BitcoinInternetPaymentSystem/Mobile-iPhone
